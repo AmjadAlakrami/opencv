@@ -1,0 +1,1 @@
+<annotations><filename>00000017.JPEG</filename><folder>images</folder><size><width>220</width><height>293</height><depth>3</depth></size><object><name>Legogubbe</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>32.999999999999986</xmin><ymin>4.0</ymin><xmax>186.0</xmax><ymax>289.0</ymax></bndbox></object></annotations>
