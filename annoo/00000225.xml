@@ -1,1 +1,0 @@
-<annotations><filename>00000225.JPEG</filename><folder>images</folder><size><width>1128</width><height>1746</height><depth>3</depth></size><object><name>Mobile</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>146.9999999999999</xmin><ymin>3.0</ymin><xmax>990.9999999999999</xmax><ymax>936.0</ymax></bndbox></object></annotations>
